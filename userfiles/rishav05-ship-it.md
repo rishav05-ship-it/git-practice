@@ -22,3 +22,4 @@ npm install my-pkg
 
 
 
+I am learning Git for my open-source class!
